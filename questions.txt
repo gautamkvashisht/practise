@@ -1,0 +1,11 @@
+Q-1. Take a number N as input and check whether it is prime or not
+
+Q-2. Take N as input and print the number at Nth positon in the Fibonacci series
+
+Q-3. Take a string as an input and print its reverse
+
+Q-4. Take N as input and print the prime numbers from 2 to N
+
+Q-5. Print all Fibonacci numbers less than or equal to a certain number
+
+Q-6. Take N as input. Print the sum of its odd digits and sum of its even digits
